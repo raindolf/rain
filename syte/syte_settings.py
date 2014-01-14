@@ -139,7 +139,7 @@ LINKEDIN_USER_SECRET = '468442ee-4f56-40a2-8008-c0dc544486c0'
 
 SITEMAP_ENABLED = False
 
-if DEPLOYMENT_MODE == 'prod':
+if DEPLOYMENT_MODE == 'dev':
     SITE_ROOT_URI = 'http://raindolf.herokuapp.com/'
     ALLOWED_HOSTS = ['*']
     DEBUG = True
