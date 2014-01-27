@@ -1,6 +1,6 @@
 # Raindolf Syte
 
-Syte is a really simple but powerful packaged personal site that has social integrations like Twitter, GitHub, Dribbble, Instagram, Foursquare, Tumblr, Wordpress, Linkedin, Spotify/Last.fm, SoundCloud, Bitbucket, StackOverflow, Flickr and Steam. You can see it in action on [Raindolf Owusu](http://raindolf.heroku.com/).
+Syte is a really simple but powerful packaged personal site that has social integrations like Twitter, GitHub, Dribbble, Instagram, Foursquare, Tumblr, Wordpress, Linkedin, Spotify/Last.fm, SoundCloud, Bitbucket, StackOverflow, Flickr and Steam. You can see my website in action here [Raindolf Owusu](http://raindolf.heroku.com/).
 
 
 
